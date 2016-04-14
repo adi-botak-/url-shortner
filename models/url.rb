@@ -1,4 +1,4 @@
-require 'json' 
+require 'json'  
 require 'openssl'
 require 'base64'
 
